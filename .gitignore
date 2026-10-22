@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+reports/
+*.tar.gz
+app/VERSION
+build-summary.txt
